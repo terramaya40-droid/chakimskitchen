@@ -1,0 +1,7 @@
+# Robots.txt for Chef Chakim's Yummys
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# Sitemap
+Sitemap: https://chefchakim.co.ke/sitemap.xml
